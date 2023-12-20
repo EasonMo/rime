@@ -1,0 +1,6 @@
+# 修改ibus的默认设置
+# 参考：https://github.com/rime/ibus-rime/blob/master/ibus_rime.yaml
+
+patch:
+  style:
+    horizontal: false          # 是否横向
